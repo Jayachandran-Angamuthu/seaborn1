@@ -8,3 +8,5 @@ lint:
 
 typecheck:
 	mypy --follow-imports=skip seaborn/_core seaborn/_marks seaborn/_stats
+
+just checking
